@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Dictionary/Dictionary.csproj" />
+  <Project Path="Dictionary2/Dictionary2.csproj" />
+  <Project Path="Dictionary3/Dictionary3.csproj" />
+  <Project Path="Factorial/Factorial.csproj" />
+  <Project Path="Frecuencias/Frecuencias.csproj" />
+  <Project Path="SobreCargaMetodos/SobreCargaMetodos.csproj" />
+</Solution>
